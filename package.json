@@ -1,0 +1,18 @@
+{
+  "name": "scaffold_administrator",
+  "version": "0.0.1",
+  "description": "Scaffold admin panel for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scaffold",
+    "admin",
+    "administrator",
+    "admin-panel",
+    "admin_panel"
+  ],
+  "author": "wickd",
+  "license": "ISC"
+}
